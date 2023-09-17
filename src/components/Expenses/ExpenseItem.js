@@ -1,6 +1,7 @@
 import React from 'react'
 
 const ExpenseItem = (props) => {
+    console.log("Props == EXP ITEM", props)
   return (
     <>
     <div className='expense-item'>

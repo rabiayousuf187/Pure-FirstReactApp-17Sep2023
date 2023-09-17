@@ -12,6 +12,8 @@ function App() {
 
   return (
     <div className="App">
+
+<Heading title = "Expense Tracer App"/> 
       <Expenses/>
       {/* <Header title="Welcome to React App" btnTitle = "Home" btnTitle2 = "Signup"/> 
        <Heading title = "Welcome to React App"/> 
