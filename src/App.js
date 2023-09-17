@@ -10,10 +10,10 @@ function App() {
 
   return (
     <div className="App">
-      <Header title="Welcome to React App" btnTitle = "Home" btnTitle2 = "Signup"/>
-       {/* <Heading title = "Welcome to React App"/> */}
-        {/* <Heading title = "React Component"/>
-        <Button title = "Click me" /> */}
+      <Header title="Welcome to React App" btnTitle = "Home" btnTitle2 = "Signup"/> 
+       <Heading title = "Welcome to React App"/> 
+        <Heading title = "React Component"/>
+        <Button title = "Click me" />
         <Contact title="Add"/>
 
     </div>
