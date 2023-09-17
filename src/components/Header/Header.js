@@ -7,8 +7,8 @@ const Header = (props) => {
     <>
         <Header>
             <Heading title = {props.title}></Heading>
-            <Button title = {props.title}/>
-            <Button title = {props.title}/>
+            <Button title = {props.btnTitle}/>
+            <Button title = {props.btnTitle2}/>
         </Header>
     </>
   )
